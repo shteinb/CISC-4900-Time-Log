@@ -1,0 +1,13 @@
+Date Range: October 23, 2023 - October 27, 2023
+
+Activities and Updates:
+
+Requirements Documentation: Received formal approval on the requirements document from Craig, Manager of Software Development, and Amy, Senior Manager of Compliance.
+
+Branch Merging: Initiated a merge of my local branch with a colleague's, who had previously integrated a multi-select filter feature on two designated pages. This merge was in alignment with the task assignment I received.
+
+Issue Identification: Post-merge, I observed that a subset of my modifications were missing, likely attributable to mishandling of certain merge conflicts during the TortoiseGit merging process.
+
+Meeting with Amy on Testing Protocols: Conducted a meeting with Amy to gain clarity on the testing phase practices at Collins Aerospace. It was elucidated that we will employ an Excel spreadsheet as a systematic tracking tool for all testable components and their respective statuses. Typically, the testing phase culminates within a week.
+
+Future Action Plan: I intend to bring this issue to the team's attention during our upcoming Monday standup. I am optimistic about receiving constructive feedback. If necessary, I retain a clear recollection of most alterations and am confident in my ability to reinstate the omitted changes efficiently.
