@@ -1,0 +1,21 @@
+Date Range: October 30, 2023 - November 3, 2023
+
+Activities and Updates:
+
+Data Integration Completion: Successfully completed the integration of SBU data across all but two designated pages, enhancing the information available within our systems.
+
+Collaborative Version Control: Engaged in collaborative troubleshooting with colleague Craig to resolve a version control conflict using TortoiseGit. This required meticulous coordination to safeguard code integrity.
+
+Change Recovery and Version Discrepancy: Restored a portion of my changes that were initially lost due to merge conflicts. However, a discrepancy was noted as Craig's modifications were not reflected in my local version. Plans are in place to consult Git specialist, Alex, for resolution.
+
+New Requirements Integration: Incorporated additional requirements communicated by Amy, which involves expanding the current scope of work to include an SBU filter on multiple Compliance Hub App pages.
+
+Task Scope Escalation: The initial task scope has notably expanded, with responsibilities now encompassing the integration of multi-select functionality for the Legal Entity filter and a date range filter upon Craig's request, as well as an SBU filter upon Amy's request.
+
+Strategic Ticket Management: Considering the substantial growth of the project scope, I am proposing a discussion with the team to potentially subdivide the workload into smaller, more manageable tickets. This approach will be deliberated in the upcoming Monday standup meeting, ensuring optimal allocation of tasks and adherence to my internship timeline.
+
+Future Plans:
+
+Consultation with Git Expert: On Monday, I will seek assistance from Alex, the Git expert on our team, to reconcile the current version control issues.
+Team Collaboration: During Monday's standup, I will present the expanded scope of the ticket for team input, emphasizing the importance of manageable task sizes and seeking advice on division strategies.
+Requirement Reassessment: I will reevaluate the newly added requirements by Amy and prepare a more detailed plan of action to ensure all new functionalities are thoroughly addressed within the Compliance Hub App. 
